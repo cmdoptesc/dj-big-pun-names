@@ -1,7 +1,7 @@
 List of DJ/producer/mc names that are puns of people's names, real or fictional.
 --------------------------------------------------------------------------------
 
-Around the end of 2012, I noticed there was a trend of DJs with names that were a play of existing ones, such as RL Grime, Hudson Mohawke, and Com Truise. A friend and I meant to make a list, or Wikipedia entry, but never got around to it. Recently, I saw a DJ Harvey poster, so that prompted me to finally write and share this list.
+Around the end of 2012, I noticed there was a trend of DJs with names that were a play of existing ones, such as RL Grime, Hudson Mohawke, Com Truise, and Diplo's *Trap Hawk Down*. A friend and I meant to make a list, or Wikipedia entry, but never it moved beyond our chats. Recently, I saw that DJ Harvey was coming to San Francisco, so that prompted me to finally materialise this list.
 
 ### Names I'm omitting:
 
@@ -12,6 +12,7 @@ Around the end of 2012, I noticed there was a trend of DJs with names that were 
 DJ Name | Existing Entity
 --- | ---
 [Com Truise](https://en.wikipedia.org/wiki/Com_Truise) | [Tom Cruise](https://en.wikipedia.org/wiki/Tom_Cruise)
+[DJ Harvey](https://www.residentadvisor.net/dj/djharvey) | [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey)
 [Dro Carey](https://soundcloud.com/drocar) | [Drew Carey](https://en.wikipedia.org/wiki/Drew_Carey)
 [Hudson Mohawke](https://en.wikipedia.org/wiki/Hudson_Mohawke) | [Hudson Hawk](https://en.wikipedia.org/wiki/Hudson_Hawk)
 [Jackie Chain](https://soundcloud.com/jackiechain) | [Jackie Chan](https://en.wikipedia.org/wiki/Jackie_Chan)
