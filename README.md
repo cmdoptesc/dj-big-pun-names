@@ -11,6 +11,8 @@ Around the end of 2012, I noticed there was a trend of DJs with names that were 
 
 DJ Name | Existing Entity
 --- | ---
+[Chet Faker](https://en.wikipedia.org/wiki/Nick_Murphy_(musician)) | [Chet Baker](https://en.wikipedia.org/wiki/Chet_Baker)
+[Chow Mane](https://soundcloud.com/chowmane) | [Chow mein](https://en.wikipedia.org/wiki/Chow_mein)
 [Com Truise](https://en.wikipedia.org/wiki/Com_Truise) | [Tom Cruise](https://en.wikipedia.org/wiki/Tom_Cruise)
 [DJ Harvey](https://www.residentadvisor.net/dj/djharvey) | [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey)
 [Dro Carey](https://soundcloud.com/drocar) | [Drew Carey](https://en.wikipedia.org/wiki/Drew_Carey)
