@@ -5,9 +5,10 @@ Around the end of 2012, I noticed there was a trend of DJs with names that were 
 
 ### Names I'm omitting:
 
-  * bands like The Dandy Warhols because they're not known for making electronic music (but [George Crustanza](https://georgecrustanza.bandcamp.com/releases) is sooo good)
+  * bands like The Dandy Warhols because they're not known for making electronic music
+  * folks with under 1000 followers on Soundcloud, or haven't been written up on RA. anyone can create some music and throw up a Soundcloud/Bandcamp profile, so I'd like to avoid that until they're better known.
 
-  * folks with under 1000 followers on Soundcloud, or haven't been written up on RA. anyone can create some music and throw up a Soundcloud/Bandcamp profile, so I'd like to avoid that until they're better known. for the record, [Trill Nye](https://soundcloud.com/trill_nye) is a great name.
+### The List of Pun Names
 
 DJ Name | Existing Entity
 --- | ---
@@ -21,3 +22,8 @@ DJ Name | Existing Entity
 [Joy Orbison](https://soundcloud.com/joy-orbison) | [Roy Orbison](https://en.wikipedia.org/wiki/Roy_Orbison)
 [Lindsay Lowend](https://soundcloud.com/tonymendez333) | [Lindsay Lohan](https://en.wikipedia.org/wiki/Lindsay_Lohan)
 [RL Grime](https://en.wikipedia.org/wiki/RL_Grime) | [R.L. Stine](https://en.wikipedia.org/wiki/R._L._Stine)
+
+
+### Humourous Notables worth a laugh
+  * [George Crustanza](https://georgecrustanza.bandcamp.com/releases)
+  * [Trill Nye](https://soundcloud.com/trill_nye)
