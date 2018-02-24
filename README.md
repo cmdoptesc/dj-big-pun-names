@@ -1,13 +1,13 @@
 List of DJ/producer/mc names that are puns of people's names, real or fictional.
 --------------------------------------------------------------------------------
 
-Around the end of 2012, I noticed there was a trend of DJs with names that were a play of existing ones, such as RL Grime, Hudson Mohawke, Com Truise, and Diplo's *Trap Hawk Down*. A friend and I meant to make a list, or Wikipedia entry, but never it moved beyond our chats. Recently, I saw that DJ Harvey was coming to San Francisco, so that prompted me to finally materialise this list.
+Around the end of 2012, I noticed there was a trend of DJs with names that were a play of existing ones, such as RL Grime, Hudson Mohawke, Com Truise, and Diplo's *Trap Hawk Down*. A friend and I meant to make a list, or Wikipedia entry, but never it moved beyond our chats. Recently, DJ Harvey coming to San Francisco prompted me to finally materialise this list.
 
 ### Names I'm omitting:
 
   * bands like The Dandy Warhols because they're not known for making electronic music
 
-  * folks with under 1000 followers on Soundcloud, or haven't been written up on RA. anyone can create some music and throw up a Soundcloud/Bandcamp profile, so I'd like to avoid that until they're better known
+  * folks with under 1000 followers on Soundcloud, or haven't been written up on RA. anyone can create some music and throw up a Soundcloud/Bandcamp profile, so I'd like to avoid that until they're better known. for the record, [Trill Nye](https://soundcloud.com/trill_nye) is a great name.
 
 DJ Name | Existing Entity
 --- | ---
