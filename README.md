@@ -21,6 +21,7 @@ DJ Name | Existing Entity
 [Jackie Chain](https://soundcloud.com/jackiechain) | [Jackie Chan](https://en.wikipedia.org/wiki/Jackie_Chan)
 [Joy Orbison](https://soundcloud.com/joy-orbison) | [Roy Orbison](https://en.wikipedia.org/wiki/Roy_Orbison)
 [Lindsay Lowend](https://soundcloud.com/tonymendez333) | [Lindsay Lohan](https://en.wikipedia.org/wiki/Lindsay_Lohan)
+[Mord Fustang](https://en.wikipedia.org/wiki/Mord_Fustang) | [Ford Mustang](https://en.wikipedia.org/wiki/Ford_Mustang)
 [RL Grime](https://en.wikipedia.org/wiki/RL_Grime) | [R.L. Stine](https://en.wikipedia.org/wiki/R._L._Stine)
 
 
