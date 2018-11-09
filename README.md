@@ -22,6 +22,7 @@ DJ Name | Existing Entity
 [Joy Orbison](https://soundcloud.com/joy-orbison) | [Roy Orbison](https://en.wikipedia.org/wiki/Roy_Orbison)
 [Lindsay Lowend](https://soundcloud.com/tonymendez333) | [Lindsay Lohan](https://en.wikipedia.org/wiki/Lindsay_Lohan)
 [Mord Fustang](https://en.wikipedia.org/wiki/Mord_Fustang) | [Ford Mustang](https://en.wikipedia.org/wiki/Ford_Mustang)
+[Pablo Discobar](https://www.residentadvisor.net/dj/pablodiscobar) | [Pablo Escobar](https://en.wikipedia.org/wiki/Pablo_Escobar)
 [RL Grime](https://en.wikipedia.org/wiki/RL_Grime) | [R.L. Stine](https://en.wikipedia.org/wiki/R._L._Stine)
 
 
