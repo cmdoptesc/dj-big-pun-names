@@ -12,6 +12,7 @@ Inspired by all DJs from 2012 like RL Grime, Hudson Mohawke, Com Truise, and Dip
 
 DJ Name | Existing Entity
 --- | ---
+[Chef Boyarbeatz](https://soundcloud.com/chef_boyarbeatz) | [Chef Boyardee](https://en.wikipedia.org/wiki/Chef_Boyardee)
 [Chet Faker](https://en.wikipedia.org/wiki/Nick_Murphy_(musician)) | [Chet Baker](https://en.wikipedia.org/wiki/Chet_Baker)
 [Chow Mane](https://soundcloud.com/chowmane) | [Chow mein](https://en.wikipedia.org/wiki/Chow_mein)
 [Com Truise](https://en.wikipedia.org/wiki/Com_Truise) | [Tom Cruise](https://en.wikipedia.org/wiki/Tom_Cruise)
@@ -21,10 +22,13 @@ DJ Name | Existing Entity
 [Jackie Chain](https://soundcloud.com/jackiechain) | [Jackie Chan](https://en.wikipedia.org/wiki/Jackie_Chan)
 [Joy Orbison](https://soundcloud.com/joy-orbison) | [Roy Orbison](https://en.wikipedia.org/wiki/Roy_Orbison)
 [Lindsay Lowend](https://soundcloud.com/tonymendez333) | [Lindsay Lohan](https://en.wikipedia.org/wiki/Lindsay_Lohan)
+[Mary Droppinz](https://soundcloud.com/marydroppinz) | [Mary Poppins](https://en.wikipedia.org/wiki/Mary_Poppins_(film))
 [Mord Fustang](https://en.wikipedia.org/wiki/Mord_Fustang) | [Ford Mustang](https://en.wikipedia.org/wiki/Ford_Mustang)
 [Pablo Discobar](https://www.residentadvisor.net/dj/pablodiscobar) | [Pablo Escobar](https://en.wikipedia.org/wiki/Pablo_Escobar)
+[Paris Trillton](https://soundcloud.com/i-ill-n) | [Paris Hilton](https://en.wikipedia.org/wiki/Paris_Hilton)
 [RL Grime](https://en.wikipedia.org/wiki/RL_Grime) | [R.L. Stine](https://en.wikipedia.org/wiki/R._L._Stine)
-
+[Trill Murray](https://soundcloud.com/trillmurray808) | [Bill Murray](https://en.wikipedia.org/wiki/Bill_Murray)
+[Vinyl Richiee](https://ra.co/dj/vinylrichiee) | [Lionel Richie](https://en.wikipedia.org/wiki/Lionel_Richie)
 
 ### Humourous Notables worth a laugh
   * [George Crustanza](https://georgecrustanza.bandcamp.com/releases)
