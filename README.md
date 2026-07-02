@@ -8,7 +8,7 @@ Inspired by all DJs from 2012 like RL Grime, Hudson Mohawke, Com Truise, and Dip
   * bands like The Dandy Warhols because they're not known for making electronic music
   * folks with under 1000 followers on Soundcloud, or haven't been written up on RA. anyone can create a funny name and add tracks to Soundcloud/Bandcamp profile, so I'd like to avoid that until they're better known.
 
-### The List of Pun Names
+### The List of Pun/Spoonerism DJ Names
 
 DJ Name | Existing Entity
 --- | ---
@@ -18,6 +18,8 @@ DJ Name | Existing Entity
 [Com Truise](https://en.wikipedia.org/wiki/Com_Truise) | [Tom Cruise](https://en.wikipedia.org/wiki/Tom_Cruise)
 [DJ Harvey](https://www.residentadvisor.net/dj/djharvey) | [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey)
 [Dro Carey](https://soundcloud.com/drocar) | [Drew Carey](https://en.wikipedia.org/wiki/Drew_Carey)
+[Fleetmac Wood](https://soundcloud.com/fleetmacwood) | [Fleetwood Mac](https://en.wikipedia.org/wiki/Fleetwood_Mac)
+[Harris & Ford](https://en.wikipedia.org/wiki/Harris_%26_Ford) | [Harrison Ford](https://en.wikipedia.org/wiki/Harrison_Ford)
 [Hudson Mohawke](https://en.wikipedia.org/wiki/Hudson_Mohawke) | [Hudson Hawk](https://en.wikipedia.org/wiki/Hudson_Hawk)
 [Jackie Chain](https://soundcloud.com/jackiechain) | [Jackie Chan](https://en.wikipedia.org/wiki/Jackie_Chan)
 [Joy Orbison](https://soundcloud.com/joy-orbison) | [Roy Orbison](https://en.wikipedia.org/wiki/Roy_Orbison)
@@ -27,6 +29,7 @@ DJ Name | Existing Entity
 [Pablo Discobar](https://www.residentadvisor.net/dj/pablodiscobar) | [Pablo Escobar](https://en.wikipedia.org/wiki/Pablo_Escobar)
 [Paris Trillton](https://soundcloud.com/i-ill-n) | [Paris Hilton](https://en.wikipedia.org/wiki/Paris_Hilton)
 [RL Grime](https://en.wikipedia.org/wiki/RL_Grime) | [R.L. Stine](https://en.wikipedia.org/wiki/R._L._Stine)
+[San Holo](https://en.wikipedia.org/wiki/San_Holo) | [Han Solo](https://en.wikipedia.org/wiki/Han_Solo)
 [Trill Murray](https://soundcloud.com/trillmurray808) | [Bill Murray](https://en.wikipedia.org/wiki/Bill_Murray)
 [Vinyl Richiee](https://ra.co/dj/vinylrichiee) | [Lionel Richie](https://en.wikipedia.org/wiki/Lionel_Richie)
 
